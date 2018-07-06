@@ -1,0 +1,5 @@
+print("Bom dia!!!!")
+print("Quero pastel")
+print("Que bom !!")
+nome = input("Digite seu nome: ")
+print(nome)
